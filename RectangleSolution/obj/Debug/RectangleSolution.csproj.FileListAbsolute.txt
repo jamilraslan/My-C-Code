@@ -1,0 +1,6 @@
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\bin\Debug\RectangleSolution.exe.config
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\bin\Debug\RectangleSolution.exe
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\bin\Debug\RectangleSolution.pdb
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\obj\Debug\RectangleSolution.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\obj\Debug\RectangleSolution.exe
+C:\Users\jamil\Desktop\Olu C# Training\RectangleSolution\obj\Debug\RectangleSolution.pdb
